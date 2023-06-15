@@ -12,11 +12,11 @@ const moveKeys = {
   '1': "Say: Let's play",
   '2': "Say: Funnnnnnn!",
   '3': "Say: ssss.....yumm!"
-}
+};
 
 module.exports = {
-  IP, 
+  IP,
   PORT,
   playerName,
   moveKeys
-}
+};
