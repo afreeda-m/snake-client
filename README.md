@@ -12,9 +12,11 @@ Game Startup
 
 <img width="563" alt="Screenshot 2023-06-16 at 4 16 20 PM" src="https://github.com/afreeda-m/snake-client/assets/64160666/2c42ffdb-c98f-460e-87da-edf2d8f4a819">
 
+
 Game Play
 
 <img width="559" alt="Screenshot 2023-06-17 at 4 01 10 PM" src="https://github.com/afreeda-m/snake-client/assets/64160666/af98894b-fadf-4b67-8069-2a0152e660bc">
+
 
 Broadcast message
 
